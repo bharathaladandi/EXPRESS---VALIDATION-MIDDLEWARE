@@ -32,6 +32,6 @@ app.post("/movies", (req, res)=>{
 });
 
 
-app.listen(8090, ()=>{
-    console.log("listening on port 8090");
+app.listen(8080, ()=>{
+    console.log("Listening on http://localhost:8080/");
 })
