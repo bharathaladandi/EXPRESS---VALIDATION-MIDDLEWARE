@@ -1,0 +1,70 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "Name": "dabbang",
+            "rating": 5,
+            "des": "fighting",
+            "genre": "biopic",
+            "cast": [
+                "salman khan",
+                "Anushka sharma"
+            ]
+        },
+        {
+            "id": 2,
+            "Name": "dabbang",
+            "rating": 5,
+            "des": "fighting",
+            "genre": "biopic",
+            "cast": [
+                "salman khan",
+                "Anushka sharma"
+            ]
+        },
+        {
+            "id": 3,
+            "Name": "dabbang",
+            "rating": 5,
+            "des": "fighting",
+            "genre": "biopic",
+            "cast": [
+                "salman khan",
+                "Anushka sharma"
+            ]
+        },
+        {
+            "id": 4,
+            "Name": "dabbang",
+            "rating": 5,
+            "des": "fighting",
+            "genre": "biopic",
+            "cast": [
+                "salman khan",
+                "Anushka sharma"
+            ]
+        },
+        {
+            "id": 5,
+            "Name": "dabbang",
+            "rating": 5,
+            "des": "fighting",
+            "genre": "biopic",
+            "cast": [
+                "salman khan",
+                "Anushka sharma"
+            ]
+        },
+        {
+            "id": 6,
+            "Name": "dabbang",
+            "rating": 5,
+            "des": "fighting",
+            "genre": "biopic",
+            "cast": [
+                "salman khan",
+                "Anushka sharma"
+            ]
+        }
+    ]
+}
